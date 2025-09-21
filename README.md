@@ -1,3 +1,4 @@
+
 # Java Practice Repository
 This repository contains Java practice programs and notes organized by topic.
 
@@ -6,3 +7,6 @@ This repository contains Java practice programs and notes organized by topic.
 - Collections
 - Streams
 - Recursion
+
+# java-practice
+
