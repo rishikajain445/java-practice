@@ -6,7 +6,7 @@ This repository contains Java practice programs and notes organized by topic.
 - Threading
 - Collections
 - Streams
-- Recursion
+- Recursions
 
 # java-practice
 
