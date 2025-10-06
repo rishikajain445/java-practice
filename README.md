@@ -7,6 +7,7 @@ This repository contains Java practice programs and notes organized by topic.
 - Collections
 - Streams
 - Recursions
+- Factory Pattens and Abstract Factory Pattern 
 
 # java-practice
 

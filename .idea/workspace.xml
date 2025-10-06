@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Collector.groupingBy practice structure">
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ABlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ACircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/AColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ARed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/AShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ASquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/AbstarctFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstarctFactoryPattern/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="FactoryPatter and Abstaract Factory Patterns practice">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759685396102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FactoryPatter and Abstaract Factory Patterns practice">
+      <option name="closed" value="true" />
+      <created>1759746254101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759746254101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit: added README and ThreadDemo.java" />
     <MESSAGE value="Collector.groupingBy practice structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collector.groupingBy practice structure" />
+    <MESSAGE value="FactoryPatter and Abstaract Factory Patterns practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="FactoryPatter and Abstaract Factory Patterns practice" />
   </component>
 </project>
