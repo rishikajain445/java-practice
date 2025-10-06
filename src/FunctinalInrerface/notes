@@ -1,0 +1,16 @@
+A Functional Interface in Java:
+Has exactly one abstract method.
+Can have default and static methods.
+Can be used with lambda expressions or method references.
+Annotated with @FunctionalInterface
+
+
+
+Built-in functional interfaces:
+Function<T,R> → takes T, returns R
+BiFunction<T, U, R> -> Takes two inputs (T and U) and returns one output (R).
+Consumer<T> → takes T, returns void
+Supplier<T> → returns T
+Predicate<T> → returns boolean
+UnaryOperator<T> → takes and returns same type
+BinaryOperator<T> → takes two arguments of same type and returns same type
