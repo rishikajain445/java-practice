@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="FunctionalInterface practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctinalInrerface/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctinalInrerface/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctinalInrerface/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctinalInrerface/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterfacePracice/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterfacePracice/PermissionGranted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarkerInterfacePracice/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759782932365</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FunctionalInterface practice">
+      <option name="closed" value="true" />
+      <created>1759819534729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759819534729</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
