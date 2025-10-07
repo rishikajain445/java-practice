@@ -14,3 +14,14 @@ Supplier<T> → returns T
 Predicate<T> → returns boolean
 UnaryOperator<T> → takes and returns same type
 BinaryOperator<T> → takes two arguments of same type and returns same type
+
+
+Combine two Functions using andThen and compose
+andThen	-->first function, then second function
+compose	 --> second function first, then first function
+
+
+Predicate<T> has built-in default methods:
+and(Predicate other) → returns true if both predicates are true
+or(Predicate other) → returns true if either predicate is true
+negate() → returns true if predicate is false
