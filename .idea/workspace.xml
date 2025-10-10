@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="FunctionalInterface practice">
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterfacePracice/Access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterfacePracice/PermissionGranted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkerInterfacePracice/Test.java" afterDir="false" />
+    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Marker Interface practice">
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/FourWheelerSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/NearestParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpotManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/TwoWheelerSpotManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759819534729</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Marker Interface practice">
+      <option name="closed" value="true" />
+      <created>1759826084083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759826084083</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +136,7 @@
     <MESSAGE value="FactoryPatter and Abstaract Factory Patterns practice" />
     <MESSAGE value="Change in read me file" />
     <MESSAGE value="FunctionalInterface practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="FunctionalInterface practice" />
+    <MESSAGE value="Marker Interface practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Marker Interface practice" />
   </component>
 </project>
