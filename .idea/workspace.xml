@@ -4,64 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Comparable and comparator practice">
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/MandateLock/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/MandateLock/SharedResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ABlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ABlue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ACircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ACircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/AColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/AColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ARed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ARed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/AShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/AShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ASquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ASquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/AbstarctFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/AbstarctFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ColorFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ProductFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstarctFactoryPattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/AbstarctFactoryPattern/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Collection/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Collection/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Collection/ComparatorAndComparablePractice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Collection/ComparatorAndComparablePractice/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Collection/ComparatorAndComparablePractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcptionHandling/AgeRestrictionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/ExcptionHandling/AgeRestrictionException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcptionHandling/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/ExcptionHandling/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPatternPractice/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPatternPractice/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPatternPractice/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPatternPractice/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryDesignPatternPractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPatternPractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctinalInrerface/Custom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/FunctinalInrerface/Custom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctinalInrerface/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/FunctinalInrerface/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctinalInrerface/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/FunctinalInrerface/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HLDElevatorDesignSystem/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ElevatorDesignSystem/Elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HLDElevatorDesignSystem/ElevatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ElevatorDesignSystem/ElevatorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HLDElevatorDesignSystem/ElevatorStimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ElevatorDesignSystem/ElevatorStimulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkerInterfacePracice/Access.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/MarkerInterfacePracice/Access.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkerInterfacePracice/PermissionGranted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/MarkerInterfacePracice/PermissionGranted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkerInterfacePracice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/MarkerInterfacePracice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/FourWheeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/FourWheeler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/FourWheelerSpotManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/FourWheelerSpotManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/NearestParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/NearestParkingSpot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/ParkingSpot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpotManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/ParkingSpotManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpotManagerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/ParkingSpotManagerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/ParkingStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/TwoWheeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/TwoWheeler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/TwoWheelerSpotManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/TwoWheelerSpotManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/VehicleType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/uml" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLDDesignImplemtations/ParkingSystem/uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/CarLoanCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPatternPractice/CarLoanCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/HomeLoanCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPatternPractice/HomeLoanCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/InterestCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPatternPractice/InterestCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/LoanContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPatternPractice/LoanContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPatternPractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/TwoWheeleerLoanCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPatternPractice/TwoWheeleerLoanCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamAPIPractice/MapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/StreamAPIPractice/MapPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/Test/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2/ElevatorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/Test2/ElevatorSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2/ElevatorTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/Test2/ElevatorTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threading/Basic.java" beforeDir="false" />
+    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Code Formatting">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConcept/Threading/MandateLock/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/MandateLock/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConcept/Threading/MandateLock/SharedResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/MandateLock/SharedResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +39,7 @@
   "keyToString": {
     "Application.ElevatorSystem.executor": "Run",
     "Application.ExcptionHandling.Test.executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test3.ElevatorSystem.executor": "Run",
     "Application.test.executor": "Run",
@@ -113,7 +60,7 @@
       <recent name="Ja" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HLDElevatorDesignSystem.ElevatorSystem">
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="Elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LLDDesignImplemtations.ElevatorDesignSystem.Elevator" />
       <module name="java-practice" />
@@ -153,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.MandateLock.Practice" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcept.Threading.MandateLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.StrategyDesignPatternPractice.Test" />
       <module name="java-practice" />
@@ -168,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.HLDElevatorDesignSystem.ElevatorSystem" />
         <item itemvalue="Application.ElevatorSystem" />
         <item itemvalue="Application.JavaConcept.ExcptionHandling.Test" />
@@ -264,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762544137688</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Code Formatting">
+      <option name="closed" value="true" />
+      <created>1762546393490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762546393490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -275,6 +244,7 @@
     <MESSAGE value="FunctionalInterface practice" />
     <MESSAGE value="Marker Interface practice" />
     <MESSAGE value="Comparable and comparator practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comparable and comparator practice" />
+    <MESSAGE value="Code Formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Formatting" />
   </component>
 </project>
