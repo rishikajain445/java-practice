@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Marker Interface practice">
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparablePractice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/FourWheelerSpotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/NearestParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpotManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/TwoWheelerSpotManager.java" afterDir="false" />
+    <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Comparable and comparator practice">
+      <change afterPath="$PROJECT_DIR$/src/CodePractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcptionHandling/AgeRestrictionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcptionHandling/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HLDElevatorDesignSystem/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HLDElevatorDesignSystem/ElevatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HLDElevatorDesignSystem/ElevatorStimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/CarLoanCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/HomeLoanCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/InterestCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/LoanContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPatternPractice/TwoWheeleerLoanCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test2/ElevatorSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test2/ElevatorTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParkingSystem/notes/ParkingSpot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +52,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ElevatorSystem.executor": "Run",
+    "Application.ExcptionHandling.Test.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Test3.ElevatorSystem.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -54,6 +65,68 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.HLDElevatorDesignSystem.ElevatorSystem">
+    <configuration name="Elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HLDElevatorDesignSystem.Elevator" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HLDElevatorDesignSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2.ElevatorSystem" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcptionHandling.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcptionHandling.Test" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExcptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyDesignPatternPractice.Test" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StrategyDesignPatternPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HLDElevatorDesignSystem.ElevatorSystem" />
+        <item itemvalue="Application.ElevatorSystem" />
+        <item itemvalue="Application.ExcptionHandling.Test" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759826084083</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Comparable and comparator practice">
+      <option name="closed" value="true" />
+      <created>1760131264658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760131264658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,6 +218,7 @@
     <MESSAGE value="Change in read me file" />
     <MESSAGE value="FunctionalInterface practice" />
     <MESSAGE value="Marker Interface practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Marker Interface practice" />
+    <MESSAGE value="Comparable and comparator practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparable and comparator practice" />
   </component>
 </project>
