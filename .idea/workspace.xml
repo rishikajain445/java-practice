@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Code Formatting">
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ReadWriteLock/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ReadWriteLock/SharedResorce3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/CallablePractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/CompletableFuture/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/FuturePractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/Semaphore/Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/Semaphore/SharedResource5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/StampedLock/Practive4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/StampedLock/SharedResource4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/StampedLock/SharedResourceOptimistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ThreadPoolPractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test4/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +48,15 @@
   "keyToString": {
     "Application.ElevatorSystem.executor": "Run",
     "Application.ExcptionHandling.Test.executor": "Run",
+    "Application.JavaConcept.Threading.ThreadPoolPractice.Practice.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.Practice2.executor": "Run",
     "Application.Practice3.executor": "Run",
+    "Application.Practice5.executor": "Run",
+    "Application.Practive4.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test3.ElevatorSystem.executor": "Run",
+    "Application.practice.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -62,26 +75,13 @@
       <recent name="Ja" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice3">
-    <configuration name="Elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLDDesignImplemtations.ElevatorDesignSystem.Elevator" />
+  <component name="RunManager" selected="Application.practice">
+    <configuration name="JavaConcept.Threading.ThreadPoolPractice.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.ThreadPoolPractice.Practice" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LLDDesignImplemtations.ElevatorDesignSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElevatorSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.Test2.ElevatorSystem" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interview.Test2.*" />
+          <option name="PATTERN" value="JavaConcept.Threading.ThreadPoolPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.MandateLock.Practice" />
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.FuturePractice.Practice" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConcept.Threading.MandateLock.*" />
+          <option name="PATTERN" value="JavaConcept.Threading.FuturePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.RedrantLock.Practice2" />
+    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.Semaphore.Practice5" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConcept.Threading.RedrantLock.*" />
+          <option name="PATTERN" value="JavaConcept.Threading.Semaphore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.ReadWriteLock.Practice3" />
+    <configuration name="Practive4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.StampedLock.Practive4" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConcept.Threading.ReadWriteLock.*" />
+          <option name="PATTERN" value="JavaConcept.Threading.StampedLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.CompletableFuture.practice" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcept.Threading.CompletableFuture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice3" />
-        <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.practice" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.HLDElevatorDesignSystem.ElevatorSystem" />
-        <item itemvalue="Application.ElevatorSystem" />
+        <item itemvalue="Application.JavaConcept.Threading.ThreadPoolPractice.Practice" />
+        <item itemvalue="Application.Practice5" />
+        <item itemvalue="Application.Practive4" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762549903005</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Code Formatting">
+      <option name="closed" value="true" />
+      <created>1762554027483</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762554027483</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
