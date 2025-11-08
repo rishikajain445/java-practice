@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Code Formatting">
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/CallablePractice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/CompletableFuture/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/FuturePractice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/Semaphore/Practice5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/Semaphore/SharedResource5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/StampedLock/Practive4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/StampedLock/SharedResource4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/StampedLock/SharedResourceOptimistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ThreadPoolPractice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test4/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ScheduledPool/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +38,7 @@
   "keyToString": {
     "Application.ElevatorSystem.executor": "Run",
     "Application.ExcptionHandling.Test.executor": "Run",
+    "Application.JavaConcept.Threading.ScheduledPool.Practice.executor": "Run",
     "Application.JavaConcept.Threading.ThreadPoolPractice.Practice.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.Practice2.executor": "Run",
@@ -75,7 +66,20 @@
       <recent name="Ja" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.practice">
+  <component name="RunManager" selected="Application.JavaConcept.Threading.ScheduledPool.Practice">
+    <configuration name="JavaConcept.Threading.ScheduledPool.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.ScheduledPool.Practice" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcept.Threading.ScheduledPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaConcept.Threading.ThreadPoolPractice.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.ThreadPoolPractice.Practice" />
       <module name="java-practice" />
@@ -115,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practive4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.StampedLock.Practive4" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConcept.Threading.StampedLock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.CompletableFuture.practice" />
       <module name="java-practice" />
@@ -143,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaConcept.Threading.ScheduledPool.Practice" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.JavaConcept.Threading.ThreadPoolPractice.Practice" />
         <item itemvalue="Application.Practice5" />
-        <item itemvalue="Application.Practive4" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762554027483</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Code Formatting">
+      <option name="closed" value="true" />
+      <created>1762632362747</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762632362747</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
