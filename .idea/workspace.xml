@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6fec56-b8af-4dc1-bca3-5fa020745427" name="Changes" comment="Code Formatting">
-      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ScheduledPool/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConcept/Threading/ThreadLocalPractice/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Application.ElevatorSystem.executor": "Run",
     "Application.ExcptionHandling.Test.executor": "Run",
     "Application.JavaConcept.Threading.ScheduledPool.Practice.executor": "Run",
+    "Application.JavaConcept.Threading.ThreadLocalPractice.practice.executor": "Run",
     "Application.JavaConcept.Threading.ThreadPoolPractice.Practice.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.Practice2.executor": "Run",
@@ -66,13 +66,26 @@
       <recent name="Ja" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaConcept.Threading.ScheduledPool.Practice">
+  <component name="RunManager" selected="Application.JavaConcept.Threading.ThreadLocalPractice.practice">
     <configuration name="JavaConcept.Threading.ScheduledPool.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.ScheduledPool.Practice" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaConcept.Threading.ScheduledPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaConcept.Threading.ThreadLocalPractice.practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.ThreadLocalPractice.practice" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcept.Threading.ThreadLocalPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.Semaphore.Practice5" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConcept.Threading.Semaphore.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConcept.Threading.CompletableFuture.practice" />
       <module name="java-practice" />
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaConcept.Threading.ThreadLocalPractice.practice" />
         <item itemvalue="Application.JavaConcept.Threading.ScheduledPool.Practice" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.JavaConcept.Threading.ThreadPoolPractice.Practice" />
-        <item itemvalue="Application.Practice5" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762632362747</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Code Formatting">
+      <option name="closed" value="true" />
+      <created>1762639748987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762639748987</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
